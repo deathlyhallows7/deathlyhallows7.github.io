@@ -1,1 +1,13 @@
 
+     img.picture1
+     {
+     border-style: solid;
+     border-color: red;
+     padding: 10px;
+     float:middle;
+     }
+
+     body
+     {
+     background-color:#6666ff
+     }
